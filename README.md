@@ -1,6 +1,6 @@
 # projectpulse_qa_portfolio
 End-to-end QA portfolio project demonstrating test strategy, test cases, RTM, defect management, exploratory testing, and API testing for a fictional SaaS platform.
-# 🚀 ProjectPulse SaaS Testing Portfolio
+# ProjectPulse SaaS Testing Portfolio
 
 ## Professional QA Testing Case Study for SaaS Project Management Platform
 
@@ -10,7 +10,7 @@ End-to-end QA portfolio project demonstrating test strategy, test cases, RTM, de
 
 ---
 
-## 📌 Quick Overview
+## Quick Overview
 
 # ProjectPulse SaaS Testing Case Study
 
@@ -267,23 +267,23 @@ This portfolio demonstrates:
 
 ---
 
-## 📌 Important Note
+## Important Note
 
 **This is a portfolio case study** demonstrating QA expertise using a fictional SaaS application (ProjectPulse). It is **not from a production system** but represents **real-world testing methodologies and practices** applied in modern Agile SaaS environments.
 
 ---
 
-## ✅ What's Included in This Portfolio
+## What's Included in This Portfolio
 
-- ✅ Complete test strategy document
-- ✅ 40 professional test cases
-- ✅ Requirements traceability matrix
-- ✅ Test execution results
-- ✅ 8 professional bug reports
-- ✅ Exploratory testing findings
-- ✅ 32 API test scenarios
-- ✅ Mobile testing coverage (iOS/Android)
-- ✅ CI/CD integration strategy
+- Complete test strategy document
+- 40 professional test cases
+- Requirements traceability matrix
+- Test execution results
+- 8 professional bug reports
+- Exploratory testing findings
+- 32 API test scenarios
+- Mobile testing coverage (iOS/Android)
+- CI/CD integration strategy
 
 ---
 
